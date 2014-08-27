@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is test part 2. Committed through the branch. 
+=======
+test
+>>>>>>> master
